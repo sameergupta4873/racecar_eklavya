@@ -6,12 +6,12 @@ Racecar Eklavya
 
 ## Table of Contents
  - [About the Project](#about-the-project)
-  - [Tech Stack](#tech-stack)
-  - [File Structure](#file-structure)
-  - [ODG-PF Algorithm Flowchart](#ODG-PF-Algorithm-Flowchart) 
+    - [Tech Stack](#tech-stack)
+    - [File Structure](#file-structure)
+    - [ODG-PF Algorithm Flowchart](#ODG-PF-Algorithm-Flowchart) 
  - [Usage and Guide](#usage-and-guide)
-  - [Prerequisites and Installations](#prerequisites-and-installations)
-  - [Usage](#usage)
+    - [Prerequisites and Installations](#prerequisites-and-installations)
+    - [Usage](#usage)
  - [Project Timeline](#project-timeline)
  - [tags](#tags)
 
