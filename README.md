@@ -13,7 +13,7 @@ Racecar Eklavya
     - [Prerequisites and Installations](#prerequisites-and-installations)
     - [Usage](#usage)
  - [Project Timeline](#project-timeline)
- - [tags](#tags)
+
 
 ## About the Project
 
@@ -136,10 +136,29 @@ rosrun racecar_eklavya obstacle_avoidance.py
 
 6. robot should start moving and avoiding obstacles
 
+Results and Demo
+---
 
+Future Work
+---
+☑️ Desigining of Robot in Solidworks
+☑️ Application of Differential Drive 
+☑️ Calculating Min-Angle for Obstacle Avoidance using ODG-PF
+☑️ Acheiving Min-Angle Using IMU
+☑️ Line Following using OpenCv and PID 
+◻️ Acheveing Line Following and Obstacle Avoidance simultaneously
 
+Contributors
+---
+- [Sameer Gupta](https://github.com/sameergupta4873)
+- [Yash Rajput](https://github.com/Yashrajput9232)
 
-
+Acknowledgements and Resources
+---
+ - [SRA-VJTI](https://github.com/SRA-VJTI)  Eklavya 2022
+ - [the Basic Science Research Program through the National Research Foundation of Korea (NRF)](https://www.nrf.re.kr/eng/index) for ODG-PF resource paper .
+ - [IRALABS](https://github.com/iralabdisco) for template for Laser Data Merging .
+ - Our Mentors [Toshan Luktuke](https://github.com/toshan-luktuke) , [Mark Koothor](https://github.com/marck3131) and [Aryaman Shardul](https://github.com/Aryaman22102002) for guiding and helping whenever we were stuck .
 
 
 Project Timeline
@@ -156,4 +175,4 @@ gantt
 
 
 
-###### tags: `ROS` `GAZEBO` `RVIZ` `PYTHON` `PID` `SOLIDWORKS` `OPENCV`
+###### tags : `ROS` `GAZEBO` `RVIZ` `PYTHON` `PID` `SOLIDWORKS` `OPENCV`
