@@ -1,7 +1,4 @@
----
-title: 'Project documentation template'
 
----
 
 Racecar Eklavya
 ===
@@ -9,52 +6,52 @@ Racecar Eklavya
 
 ## Table of Contents
 
-[TOC]
+    [TOC]
 
 ## About the Project
 
-Obstacle Avoidance Racecar is an autonomous robot designed in solidworks and simulated and tested in ros, gazebo, rviz, etc. It's main objective is to avoid obstacle using [ODG-PF](https://www.hindawi.com/journals/jat/2018/5041401/) algorithm and line following through Opencv and PID .
+    Obstacle Avoidance Racecar is an autonomous robot designed in solidworks and simulated and tested in ros, gazebo, rviz, etc. It's main objective is to avoid obstacle using [ODG-PF](https://www.hindawi.com/journals/jat/2018/5041401/) algorithm and line following through Opencv and PID .
 
-more about the project [here]()
+    more about the project [here]()
 
  ### Tech Stack
-*  Solidworks
-*  ROS Noetic 
-*  GAZEBO Sim
-*  Pyhton3
-*  RVIZ
+    *  Solidworks
+    *  ROS Noetic 
+    *  GAZEBO Sim
+    *  Pyhton3
+    *  RVIZ
 
  ### File Structure 
 
 
-📦racecar_eklavya
- ┣ 📂assets                           #contains gifs, videos and images of the results
- ┣ 📂cfg                              #config files for the sensors
- ┣ 📂include                          #include files for the plugins
- ┃ ┗ 📂vitarana_drone
- ┃ ┃ ┣ 📜gazebo_edrone_propulsion.h   #propulsion plugin include
- ┃ ┃ ┣ 📜gazebo_ros_gps.h             #gps plugin include
- ┣ 📂launch                           #launch files
- ┃ ┗ 📜drone.launch
- ┣ 📂models                           #files and meshes used to render the model
- ┃ ┗ 📂edrone
- ┃ ┃ ┣ 📂materials
- ┃ ┃ ┣ 📂meshes
- ┃ ┃ ┣ 📜model.config
- ┃ ┃ ┗ 📜model.sdf
- ┣ 📂msg                              #contains custom messages which are used to control drone functions
- ┣ 📂scripts                          #python programs used to run the drone
- ┃ ┣ 📂__pycache__
- ┃ ┣ 📜control.py                     #brain of the drone, this file needs to be executed
- ┃ ┣ 📜pid.py                         #contains the math needed to stabilise the drone
- ┣ 📂src                              #contains custom plugins used with the drone
- ┃ ┣ 📜gazebo_edrone_propulsion.cpp
- ┃ ┗ 📜gazebo_ros_gps.cpp
- ┣ 📂worlds                           #world files
- ┃ ┣ 📜drone.world
- ┣ 📜CMakeLists.txt
- ┣ 📜README.md
- ┗ 📜package.xml
+     📦racecar_eklavya
+      ┣ 📂assets                           #contains gifs, videos and images of the results
+      ┣ 📂cfg                              #config files for the sensors
+      ┣ 📂include                          #include files for the plugins
+      ┃ ┗ 📂vitarana_drone
+      ┃ ┃ ┣ 📜gazebo_edrone_propulsion.h   #propulsion plugin include
+      ┃ ┃ ┣ 📜gazebo_ros_gps.h             #gps plugin include
+      ┣ 📂launch                           #launch files
+      ┃ ┗ 📜drone.launch
+      ┣ 📂models                           #files and meshes used to render the model
+      ┃ ┗ 📂edrone
+      ┃ ┃ ┣ 📂materials
+      ┃ ┃ ┣ 📂meshes
+      ┃ ┃ ┣ 📜model.config
+      ┃ ┃ ┗ 📜model.sdf
+      ┣ 📂msg                              #contains custom messages which are used to control drone functions
+      ┣ 📂scripts                          #python programs used to run the drone
+      ┃ ┣ 📂__pycache__
+      ┃ ┣ 📜control.py                     #brain of the drone, this file needs to be executed
+      ┃ ┣ 📜pid.py                         #contains the math needed to stabilise the drone
+      ┣ 📂src                              #contains custom plugins used with the drone
+      ┃ ┣ 📜gazebo_edrone_propulsion.cpp
+      ┃ ┗ 📜gazebo_ros_gps.cpp
+      ┣ 📂worlds                           #world files
+      ┃ ┣ 📜drone.world
+      ┣ 📜CMakeLists.txt
+      ┣ 📜README.md
+      ┗ 📜package.xml
  
  ### ODG-PF Algorithm Flowchart
 ---
@@ -67,9 +64,9 @@ more about the project [here]()
 ### Prerequisites and Installations
 ___
 
-####  - Tested upon [UBUNTU 20.04](https://ubuntu.com/server/docs/installation)
-####  - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
-####  - [Gazebo](https://classic.gazebosim.org/tutorials?tut=install_ubuntu&cat=install#InstallGazebousingUbuntupackages)
+     ####  - Tested upon [UBUNTU 20.04](https://ubuntu.com/server/docs/installation)
+     ####  - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
+     ####  - [Gazebo](https://classic.gazebosim.org/tutorials?tut=install_ubuntu&cat=install#InstallGazebousingUbuntupackages)
 
 ### Usage
 ___
