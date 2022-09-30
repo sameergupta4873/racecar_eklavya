@@ -26,11 +26,11 @@ Obstacle Avoidance Racecar is an autonomous robot designed in solidworks and sim
 more about the project [here]()
 
  ### Tech Stack
-   *  Solidworks
-   *  ROS Noetic 
-   *  GAZEBO Sim
-   *  Pyhton3
-   *  RVIZ
+   *  [Solidworks](https://www.solidworks.com/)
+   *  [ROS Noetic](http://wiki.ros.org/noetic)
+   *  [GAZEBO Sim](https://classic.gazebosim.org/)
+   *  [Pyhton3](https://www.python.org/about/)
+   *  [RVIZ](http://wiki.ros.org/rviz)
 
  ### File Structure 
 
