@@ -6,20 +6,19 @@ Racecar Eklavya
 
 ## Table of Contents
 
-    [TOC]
+ [TOC]
 
 ## About the Project
 
-    Obstacle Avoidance Racecar is an autonomous robot designed in solidworks and simulated and tested in ros, gazebo, rviz, etc. It's main objective is to avoid obstacle using [ODG-PF](https://www.hindawi.com/journals/jat/2018/5041401/) algorithm and line following through Opencv and PID .
-
-    more about the project [here]()
+Obstacle Avoidance Racecar is an autonomous robot designed in solidworks and simulated and tested in ros, gazebo, rviz, etc. It's main objective is to avoid obstacle using [ODG-PF](https://www.hindawi.com/journals/jat/2018/5041401/) algorithm and line following through Opencv and PID .
+more about the project [here]()
 
  ### Tech Stack
-    *  Solidworks
-    *  ROS Noetic 
-    *  GAZEBO Sim
-    *  Pyhton3
-    *  RVIZ
+   *  Solidworks
+   *  ROS Noetic 
+   *  GAZEBO Sim
+   *  Pyhton3
+   *  RVIZ
 
  ### File Structure 
 
@@ -64,9 +63,9 @@ Racecar Eklavya
 ### Prerequisites and Installations
 ___
 
-     ####  - Tested upon [UBUNTU 20.04](https://ubuntu.com/server/docs/installation)
-     ####  - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
-     ####  - [Gazebo](https://classic.gazebosim.org/tutorials?tut=install_ubuntu&cat=install#InstallGazebousingUbuntupackages)
+ ####  - Tested upon [UBUNTU 20.04](https://ubuntu.com/server/docs/installation)
+ ####  - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
+ ####  - [Gazebo](https://classic.gazebosim.org/tutorials?tut=install_ubuntu&cat=install#InstallGazebousingUbuntupackages)
 
 ### Usage
 ___
