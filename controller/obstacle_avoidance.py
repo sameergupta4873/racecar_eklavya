@@ -11,7 +11,7 @@ from geometry_msgs.msg import Twist
 from tf.transformations import euler_from_quaternion
 
 #repulsive constant values
-robot_width = 0.45 # 145mm + 160mm + 145mm = 450mm = 0.45 m
+robot_width = 1.7 # 145mm + 160mm + 145mm = 450mm = 0.45 m
 max_range = 10
 gamma = 5
 theta_goal = 0
