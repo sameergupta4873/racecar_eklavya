@@ -185,4 +185,4 @@ gantt
 
 
 
-###### tags : `ROS` `GAZEBO` `RVIZ` `PYTHON` `PID` `SOLIDWORKS` `OPENCV` `PYTHON3` `OBSTACLE AVOIDANCE` `LINE FOLLOWING` `DIFFERENTIAL DRIVE` `LIDAR` `HOKUYO` `IMU` `CAMERA` `SENSOR`
+###### tags : `ros` `gazebo` `rviz` `python` `pid` `solidworks` `opencv` `python3` `obstacle-avoidance` `line-following` `differential-drive` `lidar` `hokuyo` `imu` `camera` `sensor`
