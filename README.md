@@ -70,7 +70,8 @@ Racecar Eklavya
  
  ### ODG-PF Algorithm Flowchart
 ---
-![](https://i.imgur.com/3Y7zk6t.png)
+![2](https://user-images.githubusercontent.com/95731926/193303926-14bc111d-c998-436c-acae-effe77a4ccc0.png)
+
 
 
 
