@@ -8,6 +8,7 @@ Racecar Eklavya
  - [About the Project](#about-the-project)
     - [Tech Stack](#tech-stack)
     - [File Structure](#file-structure)
+    - [Project Flow](#project-flow)
     - [ODG-PF Algorithm Flowchart](#ODG-PF-Algorithm-Flowchart) 
  - [Usage and Guide](#usage-and-guide)
     - [Prerequisites and Installations](#prerequisites-and-installations)
@@ -63,6 +64,9 @@ Racecar Eklavya
       ┣ 📜CMakeLists.txt
       ┣ 📜README.md
       ┗ 📜package.xml
+ ### Project Flow
+---
+![Project flow](https://user-images.githubusercontent.com/95731926/193292146-253c363b-d5e7-4f59-85fa-5d25564f0838.png)
  
  ### ODG-PF Algorithm Flowchart
 ---
