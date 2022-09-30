@@ -141,12 +141,12 @@ Results and Demo
 
 Future Work
 ---
-☑️ Desigining of Robot in Solidworks
-☑️ Application of Differential Drive 
-☑️ Calculating Min-Angle for Obstacle Avoidance using ODG-PF
-☑️ Acheiving Min-Angle Using IMU
-☑️ Line Following using OpenCv and PID 
-◻️ Acheveing Line Following and Obstacle Avoidance simultaneously
+-☑️ Desigining of Robot in Solidworks
+-☑️ Application of Differential Drive 
+-☑️ Calculating Min-Angle for Obstacle Avoidance using ODG-PF
+-☑️ Acheiving Min-Angle Using IMU
+-☑️ Line Following using OpenCv and PID 
+-◻️ Acheveing Line Following and Obstacle Avoidance simultaneously
 
 Contributors
 ---
