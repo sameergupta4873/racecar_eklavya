@@ -86,7 +86,7 @@ cd ~/catkin_ws/src
 git clone https://github.com/sameergupta4873/racecar_eklavya.git
 ```
 
-2. git clone the ira_laser_tools branch repo in the /src of your catkin_ws using
+2. git clone the [ira_laser_tools](https://github.com/sameergupta4873/ira_laser_tools.git) branch repo in the /src of your catkin_ws using
 
 ```
 git clone https://github.com/sameergupta4873/ira_laser_tools.git
