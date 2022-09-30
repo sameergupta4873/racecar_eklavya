@@ -12,7 +12,12 @@ Racecar Eklavya
  - [Usage and Guide](#usage-and-guide)
     - [Prerequisites and Installations](#prerequisites-and-installations)
     - [Usage](#usage)
+ - [Results and Demo](#results-and-demo)
+ - [Future Work](#future-work)
+ - [Contributors](#contributors)
+ - [Acknowledgements and Resources](#acknowledgements-and-resources)
  - [Project Timeline](#project-timeline)
+
 
 
 ## About the Project
