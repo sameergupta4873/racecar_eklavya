@@ -30,7 +30,7 @@ Racecar Eklavya
    *  [Solidworks](https://www.solidworks.com/)
    *  [ROS Noetic](http://wiki.ros.org/noetic)
    *  [GAZEBO Sim](https://classic.gazebosim.org/)
-   *  [Pyhton3](https://www.python.org/about/)
+   *  [Python3](https://www.python.org/about/)
    *  [RVIZ](http://wiki.ros.org/rviz)
 
  ### File Structure 
@@ -183,6 +183,3 @@ gantt
 
 ```
 
-
-
-###### tags : `ros` `gazebo` `rviz` `python` `pid` `solidworks` `opencv` `python3` `obstacle-avoidance` `line-following` `differential-drive` `lidar` `hokuyo` `imu` `camera` `sensor`
