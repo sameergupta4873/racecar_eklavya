@@ -37,32 +37,36 @@ Racecar Eklavya
 
 
      📦racecar_eklavya
-      ┣ 📂assets                           #contains gifs, videos and images of the results
-      ┣ 📂cfg                              #config files for the sensors
-      ┣ 📂include                          #include files for the plugins
-      ┃ ┗ 📂vitarana_drone
-      ┃ ┃ ┣ 📜gazebo_edrone_propulsion.h   #propulsion plugin include
-      ┃ ┃ ┣ 📜gazebo_ros_gps.h             #gps plugin include
-      ┣ 📂launch                           #launch files
-      ┃ ┗ 📜drone.launch
-      ┣ 📂models                           #files and meshes used to render the model
-      ┃ ┗ 📂edrone
-      ┃ ┃ ┣ 📂materials
-      ┃ ┃ ┣ 📂meshes
-      ┃ ┃ ┣ 📜model.config
-      ┃ ┃ ┗ 📜model.sdf
-      ┣ 📂msg                              #contains custom messages which are used to control drone functions
-      ┣ 📂scripts                          #python programs used to run the drone
-      ┃ ┣ 📂__pycache__
-      ┃ ┣ 📜control.py                     #brain of the drone, this file needs to be executed
-      ┃ ┣ 📜pid.py                         #contains the math needed to stabilise the drone
-      ┣ 📂src                              #contains custom plugins used with the drone
-      ┃ ┣ 📜gazebo_edrone_propulsion.cpp
-      ┃ ┗ 📜gazebo_ros_gps.cpp
-      ┣ 📂worlds                           #world files
-      ┃ ┣ 📜drone.world
+      ┣ 📂config 
+      ┃ ┗ 📜joint_names_racecar_updated_urdf.yaml                       
+      ┣ 📂controllers
+      ┃ ┣ 📜diff_drive.py                   
+      ┃ ┣ 📜imu_reading.py                       
+      ┃ ┣ 📜laser_range.py
+      ┃ ┣ 📜obstacle_avoidance.py
+      ┃ ┗ 📜obstacle_plus_line.py         
+      ┣ 📂launch                           
+      ┃ ┣ 📜robot_description.launch
+      ┃ ┗ 📜model.sdf                 
+      ┣ 📂meshes
+      ┃ ┣ 📜base_link.STL                 
+      ┃ ┣ 📜FLW_Link.STL                     
+      ┃ ┣ 📜FRW_Link.STL
+      ┃ ┣ 📜hokuyo.dae
+      ┃ ┣ 📜RLW_Link.STL
+      ┃ ┗ 📜RRW_Link.STL
+      ┣ 📂urdf
+      ┃ ┣ 📜my_robot.gazebo          
+      ┃ ┣ 📜my_robot.xacro                   
+      ┃ ┣ 📜racecar_updated_urdf.urdf
+      ┃ ┗ 📜racecar_updated_urdf.csv                     
+      ┣ 📂worlds                        
+      ┃ ┣ 📜world01.world 
+      ┃ ┣ 📜world02.world                    
+      ┃ ┗ 📜world03.world                      
       ┣ 📜CMakeLists.txt
       ┣ 📜README.md
+      ┣ 📜export.log
       ┗ 📜package.xml
  ### Project Flow
 ---
