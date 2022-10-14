@@ -169,7 +169,7 @@ Acknowledgements and Resources
  - [SRA-VJTI](https://github.com/SRA-VJTI)  Eklavya 2022
  - [the Basic Science Research Program through the National Research Foundation of Korea (NRF)](https://www.nrf.re.kr/eng/index) for ODG-PF resource paper .
  - [IRALABS](https://github.com/iralabdisco) for template for Laser Data Merging .
- - Our Mentors [Toshan Luktuke](https://github.com/toshan-luktuke) , [Mark Koothor](https://github.com/marck3131) and [Aryaman Shardul](https://github.com/Aryaman22102002) for guiding and helping whenever we were stuck .
+ - Our Mentors [Toshan Luktuke](https://github.com/toshan-luktuke) , [Mark Koothoor](https://github.com/marck3131) and [Aryaman Shardul](https://github.com/Aryaman22102002) for guiding and helping whenever we were stuck .
 
 
 Project Timeline
