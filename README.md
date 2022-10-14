@@ -24,7 +24,7 @@ Racecar Eklavya
 ## About the Project
 
 - Obstacle Avoidance Racecar is an autonomous robot designed in Solidworks and simulated and tested in ROS, Gazebo, RViz, etc. It's main objective is to avoid obstacle using [ODG-PF](https://www.hindawi.com/journals/jat/2018/5041401/) algorithm and line following through [OpenCV](https://opencv.org/) and [PID](https://en.wikipedia.org/wiki/PID_controller).
-- More about the project [here](https://docs.google.com/document/d/1_qysCJZdhxeMUr1WgitqG5xAhzyBeASgXK-3l_MfeWE/edit?usp=sharing).
+- More about the project [here](https://github.com/sameergupta4873/racecar_eklavya/blob/main/report.pdf).
 
  ### Tech Stack
    *  [Solidworks](https://www.solidworks.com/)
