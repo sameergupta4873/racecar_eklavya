@@ -151,6 +151,18 @@ rosrun racecar_eklavya obstacle_avoidance.py
 
 6. robot should start moving and avoiding obstacles
 
+### Line Following 
+
+7. to stop the running script 
+```
+CTRL + C 
+```
+8. Start the line follower script
+```
+rosrun racecar_eklavya line_follower.py
+```
+ 
+
 Results and Demo
 ---
 
