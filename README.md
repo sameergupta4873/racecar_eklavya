@@ -67,7 +67,6 @@ Racecar Eklavya
       ┃ ┗ 📜world03.world                      
       ┣ 📜CMakeLists.txt
       ┣ 📜README.md
-      ┣ 📜export.log
       ┗ 📜package.xml
  ### Project Flow
 ---
