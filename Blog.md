@@ -239,7 +239,7 @@ https://user-images.githubusercontent.com/95731926/195905534-36b4bf22-bf20-4839-
 
 #### The Dynamic obstacle avoidance:
 
-https://user-images.githubusercontent.com/95731926/195905945-6cd707a3-23ca-4dc1-bdb5-43566de89396.mp4
+https://user-images.githubusercontent.com/95731926/198357438-de720297-426f-4120-b9eb-d4f2fabc90d5.mp4
 
 ---
 > Well Done... I hope you are thorough with the implementation and didn't found it intimidating. You have now reached the **Bonus Section (Line-Following).**
