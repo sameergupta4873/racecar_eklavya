@@ -6,6 +6,7 @@ We started this project as complete beginners and was worried how could we manag
 ---
 > ### Now where to start from ?
 >![](https://i.imgflip.com/3y6qmf.jpg)
+
  obviously, designing.
 
 
@@ -85,8 +86,11 @@ for all the movements of our car we need a platform for it or you can say a worl
 Now our car is all set for moving!
 the wheels of our vehicle can only rotate so how will our car turn?
 to counter this aspect we use the diff_drive_controller which would turn the car by rotating the wheels in 2 different direction
+
 ![](https://i.imgur.com/WrYT8bL.png)
+
 we don't have to look at the math behind it thanks to the lovely guy who made these formulas for us to use 
+
 ![](https://i.imgur.com/heRtC1v.png)
 
 
