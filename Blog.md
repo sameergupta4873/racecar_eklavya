@@ -250,7 +250,8 @@ https://user-images.githubusercontent.com/95731926/198357438-de720297-426f-4120-
 > Well Done... I hope you are thorough with the implementation and didn't found it intimidating. You have now reached the **Bonus Section (Line-Following).**
 
 ###  📈 PID help me Follow the right Way 🛣
-![](https://miro.medium.com/max/960/1*mL7xeXiSs-K9pQv70FB2Qg.gif)
+![car](https://user-images.githubusercontent.com/95731926/198359354-05bf350f-05b0-401b-b66c-a6900e0d71ff.gif)
+
 
 Line Following is really popular feature and you can get tons of examples, source code, explanations, etc.
 
