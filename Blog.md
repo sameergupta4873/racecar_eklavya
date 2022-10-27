@@ -98,7 +98,8 @@ we don't have to look at the math behind it thanks to the lovely guy who made th
 > Vooho... Our **Racecar** not only looks great but also glides like wind on the track. Now, the most important aspect of our project the **Algorithm**.
 
 ###  Racecar has Self-Control ⚙️
-![](https://media3.giphy.com/media/H7rpSYHRyYgamxQNqw/giphy-downsized-large.gif)
+![](https://user-images.githubusercontent.com/95731926/198358906-54cd67f5-0ad0-480a-8173-15b993495291.gif)
+
 
 With Developing world the latest technologies like self-driven car attracts most of us but, have you ever thought how this machines are built, what are their requirements in terms of hardwares, coding, testing and simulations? 
 
