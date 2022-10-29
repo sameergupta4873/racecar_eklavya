@@ -273,35 +273,20 @@ https://user-images.githubusercontent.com/95731926/195905945-6cd707a3-23ca-4dc1-
 > Racecar is perpetually following the line... Now, It's time to wrap-up. Let's us brief the blog.
 ### Conclusion 
 
-So finally in this project we got to learn how to develop your own
-dynamic robot which solves a real world problem, of automating
-driving precisely.
-* Writing various python scripts to control a particular operations,
-Like simple actuations or movements and also the complex ones
-Like avoiding obstacles and following lines.
-* In this paper, we introduce a novel method for obstacle avoidance,
-ODG-PF, which avoids obstacles very efficiently and safely.
-Although AFPFM is an improvement that avoids the local minima
-problem, its attractive field coefficient should be adjusted when the
-environment is changed. As with conventional PFM, when the
-vehicle is in a narrow environment, the repulsive field becomes
-strong; thus value needs to be large. Otherwise, the robot will be
-stuck at a local minimum or go toward the goal very inefficiently.
-* Simulations and experiments showed that vehicle movements with
-ODG-PF were very stable. It seems that this stable movement is
-because of two reasons. One reason is that it detects and defines
-obstacles first rather than directly calculating the repulsive field
-from the distance data, and the other is that it finds the angle with
-minimum values from the total field function. Thus, ODG-PF does
-not have the local minima problem that causes a vehicle to become
-stuck at certain points.
-* One more merit of ODG-PF is that it avoids both static and moving
-obstacles without any adjustments. In the performed moving
-obstacle scenarios, the vehicle using it did not collide with any of
-the static or moving obstacles and instead avoided them using the
-same method. This is also quite a good point in that it does not
-need to carry out any time-consuming activities such as image
-processing or computer vision processing.
+### Conclusion 
+Being Second Year students there were a few things which we learned (Some of them were learned the hard way 🥲)
+So here's what we learned
+
+* Bunking lectures is fine as long as you're doing something productive 😜 
+* Ctrl C + Ctrl V is your best friend 
+* Break down the project into smaller goals 🤓
+* Working offline together is more productive than zoom and gmeets
+* Effective googling is one of the best skills 🤹🏻
+* Projects are really fun when you get along with your mentors and teammates 
+* All you need is a big cup of coffee and an all nighter to cover up 😇
+
+So for everyone who survived this tsunami of information or skipped directly to conclusions we would like to conclude by saying that **It's not about what you know. It's all about how much more effort you put in to learn** 
+After all we were just 2 SYs thinking about making the next Tesla
 
 ---
 ### Refrences
