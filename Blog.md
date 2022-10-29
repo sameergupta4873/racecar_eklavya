@@ -271,7 +271,6 @@ https://user-images.githubusercontent.com/95731926/195905945-6cd707a3-23ca-4dc1-
 
 ---
 > Racecar is perpetually following the line... Now, It's time to wrap-up. Let's us brief the blog.
-### Conclusion 
 
 ### Conclusion 
 Being Second Year students there were a few things which we learned (Some of them were learned the hard way 🥲)
