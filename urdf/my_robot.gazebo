@@ -35,7 +35,7 @@
     <wheelSeparation>0.3</wheelSeparation>
     <wheelDiameter>0.18</wheelDiameter>
     <torque>10000</torque>
-    <commandTopic>cmd_vel</commandTopic>
+    <commandTopic>cmd_vel_robot</commandTopic>
     <odometryTopic>odom</odometryTopic>
     <odometryFrame>odom</odometryFrame>
     <robotBaseFrame>chassis</robotBaseFrame>
@@ -52,7 +52,7 @@
     <wheelSeparation>0.3</wheelSeparation>
     <wheelDiameter>0.18</wheelDiameter>
     <torque>10000</torque>
-    <commandTopic>cmd_vel</commandTopic>
+    <commandTopic>cmd_vel_robot</commandTopic>
     <odometryTopic>odom</odometryTopic>
     <odometryFrame>odom</odometryFrame>
     <robotBaseFrame>chassis</robotBaseFrame>

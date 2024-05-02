@@ -2913,5 +2913,63 @@
         <projection_type>perspective</projection_type>
       </camera>
     </gui>
+    
+    <! -- Actor -->
+    
+    <actor name="actor1">
+      <pose>0 0 1.2138 1 1 0</pose>
+      <skin>
+        <filename>moonwalk.dae</filename>
+        <!-- <filename>model://DoctorFemaleWalk/meshes/DoctorFemaleWalk.dae</filename> -->
+        <scale>1.0</scale>
+      </skin>
+      <animation name="walking">
+        <filename>walk.dae</filename>
+        <!-- <filename>model://DoctorFemaleWalk/meshes/DoctorFemaleWalk.dae</filename> -->
+        <scale>1.000000</scale>
+        <interpolate_x>true</interpolate_x>
+      </animation>
+      <plugin name="actor_plugin" filename="libgazebo_ros_actor_command.so">
+        <!-- <follow_mode>path</follow_mode> -->
+        <follow_mode>velocity</follow_mode>
+        <vel_topic>/cmd_vel</vel_topic>
+        <path_topic>/cmd_path</path_topic>
+        <animation_factor>4.0</animation_factor>
+        <linear_tolerance>0.1</linear_tolerance>
+        <linear_velocity>1</linear_velocity>
+        <angular_tolerance>0.0872</angular_tolerance>
+        <angular_velocity>2.5</angular_velocity>
+        <default_rotation>1.57</default_rotation>
+      </plugin>
+    </actor>
+    
+    <actor name="actor2">
+      <pose>0 0 1.2138 0 0 0</pose>
+      <skin>
+        <filename>moonwalk.dae</filename>
+        <!-- <filename>model://DoctorFemaleWalk/meshes/DoctorFemaleWalk.dae</filename> -->
+        <scale>1.0</scale>
+      </skin>
+      <animation name="walking">
+        <filename>walk.dae</filename>
+        <!-- <filename>model://DoctorFemaleWalk/meshes/DoctorFemaleWalk.dae</filename> -->
+        <scale>1.000000</scale>
+        <interpolate_x>true</interpolate_x>
+      </animation>
+      <plugin name="actor_plugin" filename="libgazebo_ros_actor_command.so">
+        <!-- <follow_mode>path</follow_mode> -->
+        <follow_mode>velocity</follow_mode>
+        <vel_topic>/cmd_vel2</vel_topic>
+        <path_topic>/cmd_path2</path_topic>
+        <animation_factor>4.0</animation_factor>
+        <linear_tolerance>0.1</linear_tolerance>
+        <linear_velocity>1</linear_velocity>
+        <angular_tolerance>0.0872</angular_tolerance>
+        <angular_velocity>2.5</angular_velocity>
+        <default_rotation>1.57</default_rotation>
+      </plugin>
+    </actor>
+    
+    
   </world>
 </sdf>

@@ -106,7 +106,7 @@ def laserCallback(msg ):
     
     # publishing spin to achieve the angle_for_min 
     
-    pub = rospy.Publisher("/cmd_vel" , Twist)
+    pub = rospy.Publisher("/cmd_vel_robot" , Twist)
     move = Twist()
     move.angular.z = 0
     
